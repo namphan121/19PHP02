@@ -1,0 +1,38 @@
+header{
+	height: 100px;
+	width: 800px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+}
+#main{
+	height: 400px;
+	width: 808px;
+	margin: 0 auto;
+}
+#left{
+	height: 400px;
+	width: 600px;
+	border: 4px solid white;
+	margin: 0 auto;
+	background: orange;
+	float: left;
+}
+#right{
+	height: 400px;
+	width: 192px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+	float: left;
+}
+footer{
+	height: 100px;
+	width: 800px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+}

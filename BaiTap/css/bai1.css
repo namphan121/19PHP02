@@ -1,0 +1,24 @@
+header{
+	height: 100px;
+	width: 800px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+}
+#mid{
+	height: 400px;
+	width: 800px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+}
+footer{
+	height: 100px;
+	width: 800px;
+	border: 4px solid white;
+	margin: 0 auto;
+	font-weight: bold;
+	background: orange;
+}
