@@ -1,0 +1,29 @@
+#main{
+	border: 1px dotted black;
+}
+#mmain{
+	border: 1px double black;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	margin: 20px;
+	margin-left: 30px;
+	margin-right: 50px;
+}
+#box1{
+	border: 1px dotted black;
+	padding: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+#box2{	
+	border: 1px dotted black;
+	padding: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	margin-top: 10px;
+}	
