@@ -1,0 +1,89 @@
+#container{
+	width: 80%;
+	margin: 0 auto;
+	
+}
+header{
+	height: 100px;
+	background: orange;
+	border: 3px solid white;
+}
+section{
+	width:100%;
+	border: 3px solid white;
+	border-top: none;
+	margin-top: 4px;
+}
+#leftmain{
+	width: 400px;
+	height: 500px;
+	background: orange;
+
+	float: left;
+}
+#rightmain{
+	height: 500px;
+	margin-left: 3px;
+}
+#r3{
+	width: 24.9%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+}
+#r4{
+	width: 50.5%;
+	height: 123px;
+	background: orange;
+	margin-left: 6px;
+	float: left;
+}
+#r5{
+	width: 50.5%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+#r6{
+	width: 24.9%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+#r7{
+	width: 25.1%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+#r8{
+	width: 25%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+#r9{
+	width: 25%;
+	height: 123px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+#r10{
+	width: 75.8%;
+	height: 113px;
+	background: orange;
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+}
