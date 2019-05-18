@@ -13,20 +13,20 @@ section{
 	margin-top: 6px;
 }
 #green{
-	width: 20%;
+	width: 19%;
 	height: 600px;
 	background: green;
 	float: left;
 }
 #red{
-	width: 59.2%;
+	width: 60.2%;
 	height: 600px;
 	background: red;
 	float: left;
 	margin-left: 6px;
 }
 #orange{
-	width: 20%;
+	width: 19%;
 	height: 600px;
 	background: orange;
 	float: left;
