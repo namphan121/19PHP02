@@ -1,0 +1,44 @@
+#Login{
+	border: 1px solid black;
+	padding: 20px;
+	margin-right: 30px;
+}
+.length{
+	width: 200px;
+	height: 25px;
+}
+.lengthRe{
+	width: 100px;
+	float: left;
+	height: 25px;
+}
+#FName{
+	float: left;
+}
+#LName{
+	margin-left: 10px;
+	float: left;
+}
+#Register{
+	margin-left: 0px;
+	border: 1px solid black;
+	padding: 20px;
+}
+p{
+	font-size: 20px;
+}
+#Login1{
+	float: left;
+}
+#Register1{
+	float: left;
+}
+span{
+	color: red;
+}
+.button{
+	border: none;
+	padding: 10px 20px;
+	font-size: 15px;
+	font-weight: bold;
+}

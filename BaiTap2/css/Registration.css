@@ -1,0 +1,25 @@
+#main{
+	width: 100%;
+	margin: 0 auto;
+}
+.length{
+	width: 500px;
+	height: 25px;
+}
+p{
+	font-weight: bold;
+}
+#section{
+	padding-left: 35%;
+}
+h1{
+	text-align: center;
+}
+.button{
+	border: none;
+	padding: 10px 20px;
+	font-size: 15px;
+	font-weight: bold;
+	background: #4c7ec9;
+	color: white;
+}
