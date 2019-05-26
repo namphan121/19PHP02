@@ -1,0 +1,43 @@
+#imga {
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#main p{
+	text-align: center;
+	color: green;
+	font-style: italic;
+	font-size: 20px;
+}
+#main h1{
+	text-align: center;
+	color: yellow;
+	text-shadow: 2px 2px gray;
+}
+.top1{
+	color: red;
+	font-size: 30px;
+}
+#copy{
+	text-align: right;
+}
+.click{
+	text-decoration: underline;
+	color: red;
+}
+#container{
+	margin: 0 auto;
+	width: 80%;
+	border: 1px solid black;	 
+	border-radius: 20px;
+	text-indent: 20px;
+	background-color: white;
+}
+#section{
+	border-top: 1px solid yellow;
+	border-bottom: 1px solid yellow; 
+}
+.body{
+	background-image: linear-gradient(white,#ada);
+	height: 1000px;
+}

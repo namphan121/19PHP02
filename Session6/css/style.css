@@ -1,0 +1,13 @@
+@font-face {
+	font-family: myNewFont;
+	src: url('../font/Sallita Free Version.ttf');
+}
+p.demo1 {
+	font-family: myNewFont;
+	font-size: 70px;
+	font-weight: bold;
+	color: yellow;
+}
+p {
+	color: red;
+}
