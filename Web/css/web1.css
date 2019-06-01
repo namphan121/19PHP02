@@ -185,6 +185,7 @@ section{
 }
 #secience {
 	float: left;
+	margin-left: 40px;
 }
 #secience a	 {
 	color: purple;
@@ -198,7 +199,7 @@ section{
 #e1 {
 	border-bottom: 1px solid black;
 	height: 200px;
-	width: 30%;
+	width: 80%;
 	float: left;	
 }
 #e2 {
@@ -206,16 +207,17 @@ section{
 	margin-top: 50px;
 	height: 200px;
 	float: left;	
-	width: 30%;
+	width: 80%;
 }
 #e3 {
 	margin-top: 50px;
 	height: 200px;
-	float: left;	
-	width: 30%;
+	float: left;
+	width: 80%;
 }
 #entertainment {
-	margin-left: 50px;
+	width: 30%;
+	float: left;
 }
 #entertainment a {
 	color: purple;
